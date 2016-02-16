@@ -5,7 +5,7 @@ window.others = {
   "posts" : [
       {
         "avatar": "avatars/others/george.png",
-        "username": "Georgeee",
+        "username": "George",
         "text": "I believe all individuals have the right to a free education. Every child should be born into the world with equal opportunities to succeed and a huge part of that is education. It is not fair that only the privileged have the financial ability to attend college. I am a proud member of the International Students Union and fight for the removal of tuition ",
         "likes": [45000, 50000, 110000, 150000] //4
       },
