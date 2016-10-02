@@ -36,7 +36,7 @@ window.others = {
       {
         "avatar": "avatars/others/mary.png",
         "username": "Mary",
-        "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. I am Christian and tried to make this an important part of our lives. I tried to install Christian values on my sons and live my life according to said values."
+        "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. I am Christian and tried to make this an important part of our lives. I tried to install Christian values on my sons and live my life according to said values.",
         "likes": [20000, 25000, 95000] //3
       },
       {
@@ -60,7 +60,7 @@ window.others = {
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "I am mormon and this is an important part of who I am. I'd say the majority of people in my life are also mormon. I think religion is a really important to live a full and happy life. Hope that is enough on the topic. ",
+        "text": "I am mormon and this is an important part of who I am. I'd say the majority of people in my life are also mormon. I think religion is a really important to live a full and happy life. Hope that is enough on the topic.",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
