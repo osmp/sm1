@@ -6,7 +6,7 @@ window.others = {
       {
         "avatar": "avatars/others/george.png",
         "username": "Omar",
-        "text": "Hi. This is a bit strange and I am not sure I am writing correctly but anyway. My name is Omar and I am currently completing my Bachelors. Thought this was a good way to earn some extra money. On the topic of religion I am a Muslim, and this is quite an important part of my life- although I try to take a modern approach to it.",
+        "text": "Hi. My name is Omar and I am currently completing my Bachelors. I am a Muslim, and this is a very important part of my life. I am involved in many groups that centre around my faith. For example, Muslims of the US.",
 	"likes": [45000, 50000, 110000,] //4
       },
       {
@@ -24,7 +24,7 @@ window.others = {
       {
         "avatar": "avatars/others/anca.png",
         "username": "AncaD",
-        "text": "I am a Computer Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I am a proud Atheist and I guess weirdly Atheism is my 'religion'.",
+        "text": "This is a bit strange and I am not sure I am writing correctly but anyway. I am a Computer Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I am a proud Atheist and I guess weirdly Atheism is my 'religion'.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
