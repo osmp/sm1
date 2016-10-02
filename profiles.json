@@ -6,7 +6,8 @@ window.others = {
       {
         "avatar": "avatars/others/george.png",
         "username": "George",
-        "text": "Hi. This is a bit strange and I am not sure I am writing correctly but anyway. My name is Omar and I am currently completing my Bachelors. Thought this was a good way to earn some extra money. On the topic of religion I am a Muslim, and this is quite an important part of my life- although I try to take a modern approach to it.": [45000, 50000, 110000, 150000] //4
+        "text": "Hi. This is a bit strange and I am not sure I am writing correctly but anyway. My name is Omar and I am currently completing my Bachelors. Thought this was a good way to earn some extra money. On the topic of religion I am a Muslim, and this is quite an important part of my life- although I try to take a modern approach to it.",
+	"likes": [45000, 50000, 110000, 150000] //4
       },
       {
         "avatar": "avatars/others/sarah.png",
