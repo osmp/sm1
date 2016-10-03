@@ -44,10 +44,6 @@ window.others = {
         "username": "Aisha",
         "text": "My name is Aisha, I am 27 and I study Artificial Intelligence. I like to use my free time to make all kinds of different things.... I am a bit of a nerd really. My religion is very important to my family and I guess to me too.",
         "likes": [12000, 40000, 120000] //3
-        "avatar": "avatars/others/lauren.png",
-        "username": "Lauren",
-        "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online studies here! Not religious.",
-        "likes": [12000, 38000] //1
       },
       {
         "avatar": "avatars/others/kim.png",
